@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="935c72d7-f545-4dea-a3c4-8b23b87d4cfb" name="Changes" comment="[master]: Project initial upload">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/constants/Generic.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/page_object/InventoryPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/page_object/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSauceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestChrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSauceDemo.invalidCredentialTest">
+  <component name="RunManager" selected="TestNG.TestSauceDemo">
     <configuration name="TestChrome" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation_qa" />
       <option name="PACKAGE_NAME" value="" />
@@ -112,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSauceDemo" />
         <item itemvalue="TestNG.TestSauceDemo.invalidCredentialTest" />
         <item itemvalue="TestNG.TestSauceDemo.invalidCredentialsTest" />
-        <item itemvalue="TestNG.TestSauceDemo" />
         <item itemvalue="TestNG.TestChrome.chromeTest" />
         <item itemvalue="TestNG.TestChrome" />
       </list>
@@ -136,11 +132,26 @@
       <option name="project" value="LOCAL" />
       <updated>1669141089532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[master]: Project initial upload">
+      <created>1669744021943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669744021943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[master]: Add classroom progress: 29.11">
+      <created>1669746013301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669746013301</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[master]: Project initial upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]: Project initial upload" />
+    <MESSAGE value="[master]: Add classroom progress: 29.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]: Add classroom progress: 29.11" />
   </component>
 </project>
